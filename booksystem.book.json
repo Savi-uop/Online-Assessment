@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "65204ee6b84e01a8cc1f28da"
+  },
+  "author": "Maxcim Gorki",
+  "isbn": "2345123678909",
+  "title": "Amma"
+},
+{
+  "_id": {
+    "$oid": "65213e006ab71760c9fc5210"
+  },
+  "author": "Charlet Bronte",
+  "isbn": "9845631290645",
+  "title": "Jane Ayre"
+},
+{
+  "_id": {
+    "$oid": "65213fae539e0d1580b2b6ba"
+  },
+  "title": "Snow whote",
+  "author": "rold dhal",
+  "isbn": "2789012567823"
+},
+{
+  "_id": {
+    "$oid": "65214051539e0d1580b2b6bb"
+  },
+  "title": "ABC",
+  "author": "abc",
+  "isbn": "0823145672359"
+},
+{
+  "_id": {
+    "$oid": "652140cb539e0d1580b2b6bc"
+  },
+  "title": "ABCDE",
+  "author": "JKrowling",
+  "isbn": "1234567890789"
+}]
